@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Sebastián Ortiz
 
 ### Sobre mí
-Soy estudiante de Ingeniería en Software en la Universidad Técnica de Ambato, en la Facultad de Ingeniería de Sistemas, Electrónica e Industrial. Tengo 20 años y me apasiona el desarrollo de software y la creación de soluciones tecnológicas que mejoren la vida de las personas.
+Soy estudiante de Ingeniería en Software en la Universidad Técnica de Ambato, en la Facultad de Ingeniería de Sistemas, Electrónica e Industrial. Tengo 22 años y me apasiona el desarrollo de software y la creación de soluciones tecnológicas que mejoren la vida de las personas.
 
 ### 📚 Educación
 - **Universidad Técnica de Ambato** - Ingeniería en Software
